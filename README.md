@@ -9,7 +9,6 @@
   >
 </p>
 
-
 An end-to-end **LLM-powered NLP web application** built using **Streamlit + Google Gemini API**, providing multiple Natural Language Processing services in one unified platform.
 
 ## 𝐓𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐞𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐨𝐟:
@@ -94,7 +93,6 @@ The application includes:
 
 ## 📂 Project Structure
 
-
 𝑨𝑰-𝑪𝒉𝒂𝒕𝒃𝒐𝒕𝒔 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕𝒔/
 
 │
@@ -106,7 +104,6 @@ The application includes:
 ├── requirements.txt
 
 └── README.md
-
 
 ## 🚀 𝙃𝙤𝙬 𝙩𝙤 𝙍𝙪𝙣 𝙩𝙝𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣
 
@@ -153,6 +150,18 @@ streamlit run app.py
 ```
 
 ---
+
+## 🧪 𝙎𝙖𝙢𝙥𝙡𝙚 𝙐𝙨𝙚 𝘾𝙖𝙨𝙚𝙨
+
+| Feature            | Example Input                            | Expected Output       |
+| ------------------ | ---------------------------------------- | --------------------- |
+| Sentiment Analysis | “I love this AI project!”              | Positive              |
+| Translation        | “Artificial Intelligence is powerful.” | Hindi translation     |
+| Language Detection | “Bonjour tout le monde”                | French                |
+| Text Summarization | Long article text                        | 3–5 sentence summary |
+| PDF Summarization  | Uploaded research paper                  | Structured summary    |
+| Study Assistant    | “Explain Neural Networks”              | Clear explanation     |
+
 
 ## 📈 𝙋𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣 𝘾𝙤𝙣𝙨𝙞𝙙𝙚𝙧𝙖𝙩𝙞𝙤𝙣𝙨 𝙄𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙚𝙙
 

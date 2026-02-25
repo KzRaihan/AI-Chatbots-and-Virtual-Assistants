@@ -1,5 +1,5 @@
 ### ============================================
-#            NLP MEGA PROJECT APP
+#            𝑨𝑰-𝑪𝒉𝒂𝒕𝒃𝒐𝒕𝒔 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕𝒔 
 # ============================================
 
 # === Import necessary libraries ===
@@ -32,7 +32,7 @@ class NLPModel:
 #          Streamlit Page Configuration
 # ============================================
 st.set_page_config(
-    page_title="NLP Project UI",
+    page_title="𝑨𝑰-𝑪𝒉𝒂𝒕𝒃𝒐𝒕𝒔 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕𝒔",
     page_icon="🤖",
     layout="wide"
 )
@@ -44,8 +44,8 @@ st.set_page_config(
 def main():
 
     # ---------------- Welcome Section ----------------
-    st.title("🤖 Welcome to NLP Application")
-    st.markdown("### Your All-in-One AI Powered NLP Assistant 🚀")
+    st.title("🤖 Welcome to AI-Chatbots Assistants")
+    st.markdown("### Your 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝑵𝑳𝑷 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚀")
     st.markdown("---")
 
     # --------------- Initialize Session State ----------------
