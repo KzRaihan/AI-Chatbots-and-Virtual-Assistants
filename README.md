@@ -1,9 +1,12 @@
 # 🤖𝑨𝑰-𝑪𝒉𝒂𝒕𝒃𝒐𝒕𝒔 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕𝒔  – 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝑵𝑳𝑷 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
 
-
 <p align="center">
-  <img src="https://drive.google.com/file/d/1aSmksFLnllIOVuW1aD1LTW1boiS5AYj-/view?usp=sharing" 
-       alt=" 𝑨𝑰-𝑪𝒉𝒂𝒕𝒃𝒐𝒕𝒔 Banner Image" width="98%" height="97%">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1aSmksFLnllIOVuW1aD1LTW1boiS5AYj-" 
+    alt="𝑨𝑰-𝑪𝒉𝒂𝒕𝒃𝒐𝒕𝒔 Project Banner" 
+    width="98%" 
+    height="97%"
+  >
 </p>
 
 
